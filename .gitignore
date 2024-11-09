@@ -1,3 +1,11 @@
 .env
 venv
 SecureSure
+__pycache__
+data
+index.html
+script.js
+style.css
+memory_save.py
+pdfreader.py
+ipfs_data.py

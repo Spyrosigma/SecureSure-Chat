@@ -172,4 +172,4 @@ def handle_message(message):
 
 
 if __name__ == "__main__":
-    socketio.run(app, debug=True)
+    socketio.run(app, debug=False)

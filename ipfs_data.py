@@ -17,7 +17,5 @@ def fetch_ipfs_file(cid):
 
 print(fetch_ipfs_file(cid))
 
-
-
 # if __name__ == '__main__':
 #     app.run(debug=True)
